@@ -1,4 +1,5 @@
 
+# Cocus Challenge - Nuno Teixeira
 #Setup provider
 provider "aws" {
     region = "eu-central-1"
